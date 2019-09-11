@@ -9,7 +9,7 @@ public class GitTest1
 		intArr[1] = 2;
 		intArr[2] = 3;
 		intArr[3] = 4;
-		intArr[4] = 5; //배열 초기화
+		intArr[4] = 5; //배열 초기화  
 
 		//		System.out.println(intArr[3]);
 
